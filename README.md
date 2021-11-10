@@ -32,6 +32,11 @@ context = "1839년 바그너는 괴테의 파우스트을 처음 읽고 그 내�
 question = "바그너는 괴테의 파우스트를 읽고 무엇을 쓰고자 했는가?"
 ```
 
+### Inference
+```
+https://iot.voise.co.kr:8000/docs  # Swagger UI
+```
+![img.png](img.png)
 
 ## Reference
 - [Deploy a Servable Question Answering Model Using TensorFlow Serving](https://medium.com/@joyceye04/deploy-a-servable-bert-qa-model-using-tensorflow-serving-d848f9797d9)
