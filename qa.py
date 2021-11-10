@@ -53,9 +53,9 @@ def mrc(context, question):
                                                  question=question,
                                                  vocab="vocab.txt")
 
-    result = communication(hostport="192.168.0.46:8500",
+    result = communication(hostport="220.76.90.182:8500",
                            predict_file="test.tf_record",
-                           model_name="korquad")
+                           model_name="robo")
     # print("[result]", result)
 
     formatted_result = process_result(result)
