@@ -8,8 +8,8 @@ from tensorflow_serving.apis import prediction_service_pb2_grpc
 from tensorflow_serving.apis import predict_pb2
 import grpc
 
-from create_input import process_input
-from create_output import process_output
+from process_input import process_input
+from process_output import process_output
 
 
 def communication(hostport, predict_file, model_name):
