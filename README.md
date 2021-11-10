@@ -35,3 +35,4 @@ question = "바그너는 괴테의 파우스트를 읽고 무엇을 쓰고자 �
 
 ## Reference
 - [Deploy a Servable Question Answering Model Using TensorFlow Serving](https://medium.com/@joyceye04/deploy-a-servable-bert-qa-model-using-tensorflow-serving-d848f9797d9)
+- [FastAPI over HTTPS](https://dev.to/rajshirolkar/fastapi-over-https-for-development-on-windows-2p7d)

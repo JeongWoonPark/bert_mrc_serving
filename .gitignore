@@ -1,1 +1,5 @@
 .idea
+*.tfrecord
+__pycache__
+*.pem
+*.log
